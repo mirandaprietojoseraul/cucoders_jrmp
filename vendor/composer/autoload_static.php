@@ -99,6 +99,7 @@ class ComposerStaticInit6cdc5cd21c35f2c5af0912325fd370d2
             'League\\Config\\' => 14,
             'League\\CommonMark\\' => 18,
             'Laravel\\SerializableClosure\\' => 28,
+            'LaravelDaily\\Larastarters\\' => 26,
         ),
         'I' => 
         array (
@@ -323,6 +324,10 @@ class ComposerStaticInit6cdc5cd21c35f2c5af0912325fd370d2
         'Laravel\\SerializableClosure\\' => 
         array (
             0 => __DIR__ . '/..' . '/laravel/serializable-closure/src',
+        ),
+        'LaravelDaily\\Larastarters\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/laraveldaily/larastarters/src',
         ),
         'Inertia\\' => 
         array (
