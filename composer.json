@@ -1,8 +1,0 @@
-{
-    "require": {
-        "inertiajs/inertia-laravel": "^1.1"
-    },
-    "require-dev": {
-        "laraveldaily/larastarters": "^2.3"
-    }
-}
